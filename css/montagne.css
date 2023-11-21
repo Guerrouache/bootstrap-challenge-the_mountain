@@ -13,7 +13,12 @@
     
 }
 
-#Logo{
-    
+#about{
+    background: url(../images/bg_nuage.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 65vh;
+
 }
 
